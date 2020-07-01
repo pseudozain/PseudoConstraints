@@ -1,6 +1,7 @@
-[![CocoaPods Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/pseudozain/PseudoConstraints)
+
 [![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![Platform](https://img.shields.io/cocoapods/p/Alamofire.svg?style=flat)](https://github.com/pseudozain/PseudoConstraints)
+[![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/pseudozain/PseudoConstraints/blob/master/LICENSE)
 
 # PseudoConstraints
 
