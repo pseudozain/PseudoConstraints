@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'PseudoConstraints'
-  s.version          = '1.0.0'
+  s.version          = '1.0.2'
   s.summary          = 'Easy interface to set constraints programatically'
 
   s.description      = 'Pseudo Constraints lets you set constraints programatically with less code. Pseudo Constraints uses native Swift APIs at its core hence making it more efficient.'
