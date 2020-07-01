@@ -1,0 +1,6 @@
+framework module PseudoConstraints {
+  umbrella header "PseudoConstraints-umbrella.h"
+
+  export *
+  module * { export * }
+}

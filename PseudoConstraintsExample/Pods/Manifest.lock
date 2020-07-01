@@ -1,0 +1,16 @@
+PODS:
+  - PseudoConstraints (1.0.2)
+
+DEPENDENCIES:
+  - PseudoConstraints
+
+SPEC REPOS:
+  trunk:
+    - PseudoConstraints
+
+SPEC CHECKSUMS:
+  PseudoConstraints: a0b71c370ab3ace107cf5c78d0d7101460ba7e9c
+
+PODFILE CHECKSUM: d04a9a34a7d07f876bd5bd41e5d0863a9c158312
+
+COCOAPODS: 1.9.3
