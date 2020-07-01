@@ -7,10 +7,10 @@ Pod::Spec.new do |s|
 
   s.description      = 'Pseudo Constraints lets you set constraints programatically with less code. Pseudo Constraints uses native Swift APIs at its core hence making it more efficient.'
 
-  s.homepage         = 'https://github.com/pseudozain/PseudoConstraints'
+  s.homepage         = 'https://github.com/pseudozain'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'pseudozain' => 'e.zainulabedin@gmail.com' }
-  s.source           = { :git => 'https://bitbucket.org/mb28/cardscanner-ios.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/pseudozain/PseudoConstraints.git', :tag => s.version.to_s }
 
   s.module_name = s.name
   s.ios.deployment_target = '11.4'
