@@ -1,7 +1,6 @@
 
-[![CocoaPods Compatible]
-[![Carthage Compatible]
-[![Platform](https://img.shields.io/cocoapods/p/Alamofire.svg?style=flat)](https://alamofire.github.io/Alamofire)
+[CocoaPods Compatible] [Carthage Compatible]
+
 # PseudoConstraints
 
 PseudoConstraints is an easy and simple interface to set ```NSLayoutConstraints``` programatically. PseudoConstraints uses native ```UIKit``` APIs at its core, so making it more efficient.
