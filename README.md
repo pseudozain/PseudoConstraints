@@ -31,7 +31,7 @@ github "pseudozain/PseudoConstraints"
 And run:
 
 ```ruby
-carthge udpate --platefrom iOS
+carthge update --plateform iOS
 ```
 
 ## Usage
