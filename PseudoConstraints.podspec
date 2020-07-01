@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.version          = '1.0.0'
   s.summary          = 'Easy interface to set constraints programatically'
 
-  s.description      = 'Pseudo Constraints let's you set constraints programatically with less code. Pseudo Constraints uses native Swift APIs at its core hence making it more efficient.'
+  s.description      = 'Pseudo Constraints lets you set constraints programatically with less code. Pseudo Constraints uses native Swift APIs at its core hence making it more efficient.'
 
   s.homepage         = 'https://github.com/pseudozain/PseudoConstraints'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
