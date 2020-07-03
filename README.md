@@ -16,7 +16,7 @@ PseudoConstrains is available through Cocoapods and Carthage.
 To install PseudoConstraints through CocoaPods add following to your podfile:
 
 ```ruby
-pod 'IdentityScanner'
+pod 'PseudoConstraints'
 ```
 
 And run:
